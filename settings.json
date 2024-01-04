@@ -5,7 +5,6 @@
   "files.autoSave": "afterDelay",
   "workbench.colorTheme": "Monokai Dimmed",
   "workbench.iconTheme": "vscode-icons",
-  "files.trimTrailingWhitespace": true,
   "editor.renderWhitespace": "trailing",
   "editor.wordWrap": "on",
   "editor.copyWithSyntaxHighlighting": false,
