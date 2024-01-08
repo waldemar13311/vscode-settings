@@ -64,5 +64,9 @@
   "editor.mouseWheelScrollSensitivity": 2,
   "workbench.list.mouseWheelScrollSensitivity": 2,
   "terminal.integrated.mouseWheelScrollSensitivity": 2,
-  "workbench.editor.empty.hint": "hidden"
+  "workbench.editor.empty.hint": "hidden",
+  
+  "explorer.confirmPasteNative": false,
+  "explorer.confirmDragAndDrop": false,
+  "yaml.schemaStore.enable": false
 }
